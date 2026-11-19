@@ -1,0 +1,114 @@
+[
+  {
+    "code": "C22",
+    "captions": [
+      "반복 설명은 이제 그만",
+      "입력·순서·완료 기준",
+      "스킬 파일로 저장",
+      "필요할 때 직접 호출",
+      "회의 A부터 작은 시험",
+      "회의 B로 다시 검증",
+      "미정은 그대로 남겨",
+      "호출과 결과 따로 확인"
+    ],
+    "scenes": [
+      "Learner tired of typing the same meeting-note instructions repeatedly; three similar notes pile beside laptop.",
+      "Instructor helps write a short checklist: input, ordered steps, output, completion checks; use icons rather than paragraphs.",
+      "Learner saves a reusable procedure into a folder with a single clear SKILL.md document.",
+      "Learner explicitly types /meeting-actions into the Desktop Code prompt box; no operating-system terminal.",
+      "Learner compares meeting A source with an action-item table containing three generic gray-line task rows.",
+      "Learner uses a different meeting B source to test the same saved procedure; two distinct source documents A and B.",
+      "Magnifier over unassigned person and unknown date; both cells remain 미정, never invented.",
+      "Instructor and learner verify both actual skill invocation and correct source-based results using two separate green checks."
+    ],
+    "image": "/comics/C22-8cut-v1.png",
+    "prompt": "Use case: illustration-story. Asset: Korean beginner adult education website comic, lesson-specific new illustration. Art direction for matching the established series: preserve the friendly Korean webtoon ink style, warm cream office background, navy-shirt young adult learner with wavy black hair, adult Korean woman instructor with tied-back brown hair, white shirt and teal cardigan, amber number badges and cream black-outlined caption boxes. Draw entirely NEW scenes for the lesson below, do not copy the receipt story. CANVAS MUST BE WIDE 2:1, target 2048x1024. EXACTLY EIGHT equal SQUARE panels in FOUR COLUMNS and TWO ROWS. Edge-to-edge grid, no outer margins, no title banner, no extra panels, no subpanels or insets. Thin straight uniform black dividers precisely at 25%, 50%, 75% of width and 50% of height so each cell can be displayed separately on a website. Reading order 1–4 top, 5–8 bottom. Each panel has amber circular number at top-left and ONE large legible Korean caption in a rounded cream box at the bottom, all fully within its cell. Keep faces, hands, text away from panel edges. Every panel shows concrete human action rather than a text-only diagram. Exact caption spelling below. Generic conceptual Desktop app screens; no brand logos or claims that the drawing is an actual screenshot. Extra text minimal, abstract gray lines on documents, only specified necessary IDs. No watermarks, real personal data, real credentials, destructive commands, or automatic external writes. No operating system terminal windows. Important: protection applies only to demonstrated paths; no claim that hooks make everything safe. Read-only is actual tool limitation, not merely a speech promise. Lesson C22. Panels:\n1. Caption verbatim: \"반복 설명은 이제 그만\". Scene: Learner tired of typing the same meeting-note instructions repeatedly; three similar notes pile beside laptop.\n2. Caption verbatim: \"입력·순서·완료 기준\". Scene: Instructor helps write a short checklist: input, ordered steps, output, completion checks; use icons rather than paragraphs.\n3. Caption verbatim: \"스킬 파일로 저장\". Scene: Learner saves a reusable procedure into a folder with a single clear SKILL.md document.\n4. Caption verbatim: \"필요할 때 직접 호출\". Scene: Learner explicitly types /meeting-actions into the Desktop Code prompt box; no operating-system terminal.\n5. Caption verbatim: \"회의 A부터 작은 시험\". Scene: Learner compares meeting A source with an action-item table containing three generic gray-line task rows.\n6. Caption verbatim: \"회의 B로 다시 검증\". Scene: Learner uses a different meeting B source to test the same saved procedure; two distinct source documents A and B.\n7. Caption verbatim: \"미정은 그대로 남겨\". Scene: Magnifier over unassigned person and unknown date; both cells remain 미정, never invented.\n8. Caption verbatim: \"호출과 결과 따로 확인\". Scene: Instructor and learner verify both actual skill invocation and correct source-based results using two separate green checks.\nDeliver exactly one complete 4-by-2 eight-panel landscape comic, no standalone thumbnail or mockup.",
+    "revisionPrompt": "Edit this existing eight-panel comic with ONE local factual correction only. Preserve the entire exact 4-column by 2-row square-panel grid, 2:1 canvas, character identities, all captions and all other panels. In panel 6 (bottom row second column), the source Meeting B has EXACTLY TWO action items, not three. Change its output table to show exactly TWO numbered task rows, 1 and 2, and remove row 3 completely; remaining space can be blank neutral screen. Keep Meeting B selected, with A as an unselected source menu item. Do NOT change panel 5: Meeting A correctly has THREE rows. Do not add any new text or panels. Deliver the full same-size comic with only panel 6 output table corrected.",
+    "generator": "built-in image_gen",
+    "styleReferenceInspected": "public/comics/D21-8cut-v1.png"
+  },
+  {
+    "code": "C23",
+    "captions": [
+      "가짜 파일로 연습",
+      "수정 직전에 검사",
+      "일반 파일은 통과",
+      "보호 파일은 차단",
+      "오류 입력도 시험",
+      "실행 기록을 확인",
+      "다른 경로는 별도 점검",
+      "실습 뒤 설정 복구"
+    ],
+    "scenes": [
+      "Instructor gives learner two clearly fictional training documents, normal and protected, no real credentials.",
+      "A small checkpoint shield inspects a pencil BEFORE it touches a document; clear before-action timing.",
+      "A normal training document passes checkpoint with green check and gets edited.",
+      "A protected training document meets a red stop symbol; its document remains unchanged.",
+      "Learner safely tests a malformed mock input paper with braces and warning symbol; no destructive commands.",
+      "Instructor points at a small event log on laptop and learner compares it with unchanged protected file.",
+      "Multiple separate tool paths are shown as small routes: only the edit-tool route has the demonstrated checkpoint, other routes have question marks; not universal protection.",
+      "Learner removes only the temporary practice setting, restores original configuration and records result with instructor."
+    ],
+    "image": "/comics/C23-8cut-v1.png",
+    "prompt": "Use case: illustration-story. Asset: Korean beginner adult education website comic, lesson-specific new illustration. Art direction for matching the established series: preserve the friendly Korean webtoon ink style, warm cream office background, navy-shirt young adult learner with wavy black hair, adult Korean woman instructor with tied-back brown hair, white shirt and teal cardigan, amber number badges and cream black-outlined caption boxes. Draw entirely NEW scenes for the lesson below, do not copy the receipt story. CANVAS MUST BE WIDE 2:1, target 2048x1024. EXACTLY EIGHT equal SQUARE panels in FOUR COLUMNS and TWO ROWS. Edge-to-edge grid, no outer margins, no title banner, no extra panels, no subpanels or insets. Thin straight uniform black dividers precisely at 25%, 50%, 75% of width and 50% of height so each cell can be displayed separately on a website. Reading order 1–4 top, 5–8 bottom. Each panel has amber circular number at top-left and ONE large legible Korean caption in a rounded cream box at the bottom, all fully within its cell. Keep faces, hands, text away from panel edges. Every panel shows concrete human action rather than a text-only diagram. Exact caption spelling below. Generic conceptual Desktop app screens; no brand logos or claims that the drawing is an actual screenshot. Extra text minimal, abstract gray lines on documents, only specified necessary IDs. No watermarks, real personal data, real credentials, destructive commands, or automatic external writes. No operating system terminal windows. Important: protection applies only to demonstrated paths; no claim that hooks make everything safe. Read-only is actual tool limitation, not merely a speech promise. Lesson C23. Panels:\n1. Caption verbatim: \"가짜 파일로 연습\". Scene: Instructor gives learner two clearly fictional training documents, normal and protected, no real credentials.\n2. Caption verbatim: \"수정 직전에 검사\". Scene: A small checkpoint shield inspects a pencil BEFORE it touches a document; clear before-action timing.\n3. Caption verbatim: \"일반 파일은 통과\". Scene: A normal training document passes checkpoint with green check and gets edited.\n4. Caption verbatim: \"보호 파일은 차단\". Scene: A protected training document meets a red stop symbol; its document remains unchanged.\n5. Caption verbatim: \"오류 입력도 시험\". Scene: Learner safely tests a malformed mock input paper with braces and warning symbol; no destructive commands.\n6. Caption verbatim: \"실행 기록을 확인\". Scene: Instructor points at a small event log on laptop and learner compares it with unchanged protected file.\n7. Caption verbatim: \"다른 경로는 별도 점검\". Scene: Multiple separate tool paths are shown as small routes: only the edit-tool route has the demonstrated checkpoint, other routes have question marks; not universal protection.\n8. Caption verbatim: \"실습 뒤 설정 복구\". Scene: Learner removes only the temporary practice setting, restores original configuration and records result with instructor.\nDeliver exactly one complete 4-by-2 eight-panel landscape comic, no standalone thumbnail or mockup.",
+    "revisionPrompt": "Edit this existing full eight-panel Korean comic. Preserve its exact 4x2 grid and 2:1 aspect, all people, palette, captions, other panels and overall layout. Correct a factual mistake in panel 5 and corresponding log in panel 6 ONLY. The teaching hook is FAIL CLOSED for malformed mock input: malformed input MUST be BLOCKED, not passed. Panel 5 (bottom left): change the green check-circle and green pass arrow beside the checkpoint into a red stop/X and red blocking indicator. Keep the malformed input warning icon and caption '오류 입력도 시험'. It must clearly show rejection. Panel 6 (bottom row second): preserve the first log line normal file pass and second protected file block. Replace the THIRD log line, currently a green pass, with RED X and exactly the short Korean text '오류 입력: 차단'. Never portray malformed input as passing. Preserve panel 7: other tool paths remain separately unchecked with question marks, no universal security guarantee. All caption boxes verbatim unchanged. Return entire comic, no crop.",
+    "generator": "built-in image_gen",
+    "styleReferenceInspected": "public/comics/D21-8cut-v1.png"
+  },
+  {
+    "code": "C24",
+    "captions": [
+      "작성과 검토를 분리",
+      "원문과 결과를 전달",
+      "검토자는 읽기만",
+      "미정 담당자 발견",
+      "없는 기한도 찾아",
+      "보류는 실행 아님",
+      "근거 세 곳을 대조",
+      "검토 후 사람이 판단"
+    ],
+    "scenes": [
+      "Learner creates a report at one laptop while instructor acts as an independent reviewer at another; visibly separate roles.",
+      "Two documents marked original and result are passed together to a reviewer with a checklist.",
+      "Reviewer examines document using an eye and magnifier; pencil/edit symbol crossed out to denote read-only tools.",
+      "Reviewer points at M02: original assignee is unknown, result has an unsupported assignment; keep original marked 미정.",
+      "Reviewer points at M03: a calendar date in the result is unsupported by original; show question mark rather than an invented real date.",
+      "Reviewer points at M04: original pause symbol means deferred, result erroneously presents a start arrow; keep source paused.",
+      "Three distinct error markers M02 M03 M04 are matched to three original source locations.",
+      "Learner reads the three evidence-based findings and makes the final human decision; reviewer has not modified originals."
+    ],
+    "image": "/comics/C24-8cut-v1.png",
+    "prompt": "Use case: illustration-story. Asset: Korean beginner adult education website comic, lesson-specific new illustration. Art direction for matching the established series: preserve the friendly Korean webtoon ink style, warm cream office background, navy-shirt young adult learner with wavy black hair, adult Korean woman instructor with tied-back brown hair, white shirt and teal cardigan, amber number badges and cream black-outlined caption boxes. Draw entirely NEW scenes for the lesson below, do not copy the receipt story. CANVAS MUST BE WIDE 2:1, target 2048x1024. EXACTLY EIGHT equal SQUARE panels in FOUR COLUMNS and TWO ROWS. Edge-to-edge grid, no outer margins, no title banner, no extra panels, no subpanels or insets. Thin straight uniform black dividers precisely at 25%, 50%, 75% of width and 50% of height so each cell can be displayed separately on a website. Reading order 1–4 top, 5–8 bottom. Each panel has amber circular number at top-left and ONE large legible Korean caption in a rounded cream box at the bottom, all fully within its cell. Keep faces, hands, text away from panel edges. Every panel shows concrete human action rather than a text-only diagram. Exact caption spelling below. Generic conceptual Desktop app screens; no brand logos or claims that the drawing is an actual screenshot. Extra text minimal, abstract gray lines on documents, only specified necessary IDs. No watermarks, real personal data, real credentials, destructive commands, or automatic external writes. No operating system terminal windows. Important: protection applies only to demonstrated paths; no claim that hooks make everything safe. Read-only is actual tool limitation, not merely a speech promise. Lesson C24. Panels:\n1. Caption verbatim: \"작성과 검토를 분리\". Scene: Learner creates a report at one laptop while instructor acts as an independent reviewer at another; visibly separate roles.\n2. Caption verbatim: \"원문과 결과를 전달\". Scene: Two documents marked original and result are passed together to a reviewer with a checklist.\n3. Caption verbatim: \"검토자는 읽기만\". Scene: Reviewer examines document using an eye and magnifier; pencil/edit symbol crossed out to denote read-only tools.\n4. Caption verbatim: \"미정 담당자 발견\". Scene: Reviewer points at M02: original assignee is unknown, result has an unsupported assignment; keep original marked 미정.\n5. Caption verbatim: \"없는 기한도 찾아\". Scene: Reviewer points at M03: a calendar date in the result is unsupported by original; show question mark rather than an invented real date.\n6. Caption verbatim: \"보류는 실행 아님\". Scene: Reviewer points at M04: original pause symbol means deferred, result erroneously presents a start arrow; keep source paused.\n7. Caption verbatim: \"근거 세 곳을 대조\". Scene: Three distinct error markers M02 M03 M04 are matched to three original source locations.\n8. Caption verbatim: \"검토 후 사람이 판단\". Scene: Learner reads the three evidence-based findings and makes the final human decision; reviewer has not modified originals.\nDeliver exactly one complete 4-by-2 eight-panel landscape comic, no standalone thumbnail or mockup.",
+    "revisionPrompt": "Edit two small screen labels ONLY in this existing 8-panel comic; preserve exact 4 columns x 2 rows, 2:1 canvas, every scene, person, composition and all bottom Korean captions. Panel 4 (top right), M02: original 담당자 stays '미정'; change the wrong result assignee from '김OO' to '수진', retaining red X to indicate it was wrongly inferred. Panel 5 (bottom left), M03: original deadline should read '기한: 미정'; result deadline should show clearly readable '12/05' on the little calendar, with RED X beside it. This depicts an INVENTED date in the result, not an error because a date was missing. Keep M04 deferred-versus-start error and the three evidence links M02/M03/M04 unchanged. Nothing else changes; return full comic.",
+    "generator": "built-in image_gen",
+    "styleReferenceInspected": "public/comics/D21-8cut-v1.png"
+  },
+  {
+    "code": "C25",
+    "captions": [
+      "필요한 연결 하나만",
+      "연결 계정부터 확인",
+      "읽기 권한부터 시작",
+      "샘플 한 건만 조회",
+      "초안과 발송은 따로",
+      "실제 권한을 점검",
+      "앱에서 연결 해제",
+      "제공자 인증도 폐기"
+    ],
+    "scenes": [
+      "Many generic service icons surround laptop; learner chooses just one document-service connection, not everything.",
+      "Instructor and learner inspect a clearly fictional DEMO account card before connecting, no real name/email/password.",
+      "Read-only document access with magnifier is allowed; pencil and trash icons remain locked.",
+      "Learner reads one fictional education-schedule document, small generic rows and a magnifier; no other account contents.",
+      "A draft document stays on the desk while the send-envelope action waits behind a human approval hand; no automatic sending.",
+      "Instructor inspects actual account permission toggles and tool list, not only a speech request.",
+      "Learner disconnects the service in the app; disconnected cable symbol and inactive connector.",
+      "Learner also revokes access at the fictional service provider's settings; a crossed-out token/key icon with green confirmation, no actual key text."
+    ],
+    "image": "/comics/C25-8cut-v1.png",
+    "prompt": "Use case: illustration-story. Asset: Korean beginner adult education website comic, lesson-specific new illustration. Art direction for matching the established series: preserve the friendly Korean webtoon ink style, warm cream office background, navy-shirt young adult learner with wavy black hair, adult Korean woman instructor with tied-back brown hair, white shirt and teal cardigan, amber number badges and cream black-outlined caption boxes. Draw entirely NEW scenes for the lesson below, do not copy the receipt story. CANVAS MUST BE WIDE 2:1, target 2048x1024. EXACTLY EIGHT equal SQUARE panels in FOUR COLUMNS and TWO ROWS. Edge-to-edge grid, no outer margins, no title banner, no extra panels, no subpanels or insets. Thin straight uniform black dividers precisely at 25%, 50%, 75% of width and 50% of height so each cell can be displayed separately on a website. Reading order 1–4 top, 5–8 bottom. Each panel has amber circular number at top-left and ONE large legible Korean caption in a rounded cream box at the bottom, all fully within its cell. Keep faces, hands, text away from panel edges. Every panel shows concrete human action rather than a text-only diagram. Exact caption spelling below. Generic conceptual Desktop app screens; no brand logos or claims that the drawing is an actual screenshot. Extra text minimal, abstract gray lines on documents, only specified necessary IDs. No watermarks, real personal data, real credentials, destructive commands, or automatic external writes. No operating system terminal windows. Important: protection applies only to demonstrated paths; no claim that hooks make everything safe. Read-only is actual tool limitation, not merely a speech promise. Lesson C25. Panels:\n1. Caption verbatim: \"필요한 연결 하나만\". Scene: Many generic service icons surround laptop; learner chooses just one document-service connection, not everything.\n2. Caption verbatim: \"연결 계정부터 확인\". Scene: Instructor and learner inspect a clearly fictional DEMO account card before connecting, no real name/email/password.\n3. Caption verbatim: \"읽기 권한부터 시작\". Scene: Read-only document access with magnifier is allowed; pencil and trash icons remain locked.\n4. Caption verbatim: \"샘플 한 건만 조회\". Scene: Learner reads one fictional education-schedule document, small generic rows and a magnifier; no other account contents.\n5. Caption verbatim: \"초안과 발송은 따로\". Scene: A draft document stays on the desk while the send-envelope action waits behind a human approval hand; no automatic sending.\n6. Caption verbatim: \"실제 권한을 점검\". Scene: Instructor inspects actual account permission toggles and tool list, not only a speech request.\n7. Caption verbatim: \"앱에서 연결 해제\". Scene: Learner disconnects the service in the app; disconnected cable symbol and inactive connector.\n8. Caption verbatim: \"제공자 인증도 폐기\". Scene: Learner also revokes access at the fictional service provider's settings; a crossed-out token/key icon with green confirmation, no actual key text.\nDeliver exactly one complete 4-by-2 eight-panel landscape comic, no standalone thumbnail or mockup.",
+    "revisionPrompt": "Make only two local screen-text corrections to this existing full 8-panel comic. Preserve exact 4-column by 2-row panel grid, 2:1 canvas, all recurring people, colors, all eight large bottom captions and all other scenes. Panel 4 (top right): replace the unrelated Korean-language schedule table with a fictional document titled '교육 일정(샘플)'. Very simple TWO-column table labelled '수업' and '시간', with exactly TWO rows '수업 1 | 30분' and '수업 2 | 60분'. Below it a small clear summary '교육시간 90분'. No dates or invented locations, no third row. This is one document query containing two classes. Panel 8 (bottom right): make the green confirmation banner read exactly '인증 해제 완료' in clear Korean, no longer phrase or gibberish. Keep the provider settings title, crossed-out key and revoke control. No extra panels, no new logos. Return full comic.",
+    "generator": "built-in image_gen",
+    "styleReferenceInspected": "public/comics/D21-8cut-v1.png"
+  }
+]

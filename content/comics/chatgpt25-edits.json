@@ -1,0 +1,31 @@
+[
+  {
+    "code": "E105",
+    "source": "D05",
+    "image": "/comics/chatgpt25-D05-8cut-v1.png",
+    "prompt": "Use case: text-localization. Edit target is the attached 8-panel Korean education comic. Preserve the exact 4-column 2-row grid, 2:1 canvas, all characters, colors, poses, panels and Korean captions except these text replacements only: every standalone \"Code\" label in panels 4,5,7 becomes \"Codex\"; panel 4 bottom caption becomes \"Codex 지침은 별도\"; panel 5 filename CLAUDE.md becomes AGENTS.md, panel 5 bottom caption becomes \"이름은 AGENTS.md\". Panel 7 list last label becomes \"Codex 지침\". Keep all other details unchanged. Produce the complete 8-panel page, no extra panels, no logos.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "code": "E112",
+    "correctionPrompt": "Use case: text-localization. Make exactly one tiny text correction to the attached complete 8-panel comic. In panel 8 (bottom right), the small gray strip near the bottom of the laptop screen currently has garbled Korean. Replace the entire small-strip text with exactly \"설치 성공 아님\" in clear black Korean letters. Keep every other pixel/detail as unchanged as possible: 4-column 2-row grid, exact 2:1 canvas, all characters and poses, all captions, T001-T006, 28,000 and negative -2,000 unchanged. Complete page only.",
+    "source": "D12",
+    "image": "/comics/chatgpt25-D12-8cut-v1.png",
+    "prompt": "Use case: text-localization. Edit target is the attached 8-panel Korean classroom comic. Preserve exact 4-column 2-row grid, 2:1 canvas, characters, colors, poses and all other panels/captions. Change panel 4 only: replace yellow ZIP archive icon with a plain document icon labeled \"절차 MD\" and keep SKILL.md file visible; bottom caption becomes \"절차 파일 내용 확인\". The concept is attaching a procedure document rather than assuming ZIP upload support. Panel 5 screen replace \"스킬 사용됨\" with \"실행 방식 확인\"; keep bottom \"사용됐는지 확인\". Panel 8 screen bottom replace \"설치된 스킬 성공 아님\" with \"스킬 설치 성공 아님\". No other changes, keep correct T001..T006 numbers and 28,000 total, complete 8 panels.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "code": "E114",
+    "source": "D14",
+    "image": "/comics/chatgpt25-D14-8cut-v1.png",
+    "prompt": "Use case: text-localization. Edit target is the attached complete 8-panel Korean education comic. Preserve exact 4-column 2-row grid and 2:1 canvas, characters, poses, warm colors, all numerical values and all captions except panel 1. In panel 1 change application label \"Code\" to \"Codex\" and bottom caption to \"Codex에서 첫 앱\". Keep other panels unchanged, including 28,000 total, T004 미확정, refund -2,000 and food total 10,000. Complete page only.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "code": "E122",
+    "source": "C22",
+    "image": "/comics/chatgpt25-D22-8cut-v1.png",
+    "prompt": "Use case: text-localization. Edit target is attached complete 8-panel Korean education comic. Preserve exact 4-column 2-row grid, 2:1 canvas, characters, poses and all other captions. In panel 3 show folder path \".agents/skills/meeting-actions/\" above SKILL.md instead of generic skills folder. In panel 4 change application header \"Desktop Code\" to \"Codex\"; replace slash-command input \"/meeting-actions\" with a selected skill chip \"meeting-actions\" next to a cursor, and small label \"스킬 선택\". Do not depict a slash command. Keep bottom caption \"필요할 때 직접 호출\". All other panels unchanged, complete eight numbered panels, clear legible text.",
+    "tool": "built-in image_gen"
+  }
+]

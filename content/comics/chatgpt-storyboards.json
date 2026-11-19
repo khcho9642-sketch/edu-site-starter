@@ -1,0 +1,192 @@
+[
+  {
+    "code": "E01",
+    "publicCode": "D01",
+    "topic": "첫 대화",
+    "goal": "답을 외우기보다 확인부터",
+    "image": "/comics/chatgpt-D01-8cut-v1.png",
+    "captions": [
+      "브라우저로 시작해요",
+      "원하는 일을 적어요",
+      "가짜 자료로 연습해요",
+      "짧은 답부터 받아요",
+      "틀린 곳을 찾아봐요",
+      "새 대화로 구분해요",
+      "결과를 직접 저장해요",
+      "첫 대화 완료!"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE original Korean beginner ChatGPT training comic, exactly EIGHT equally sized square panels in a precise FOUR COLUMNS by TWO ROWS grid, landscape aspect ratio EXACTLY 2:1. Full-bleed grid with panel borders at 25%,50%,75% width and 50% height. No extra title, no margins. Reading order left to right top row1-4 then bottom5-8. Warm cream adult office webtoon, expressive wavy black-haired adult Korean learner in navy shirt and woman instructor in teal cardigan with brown ponytail; bold clean black linework, warm amber numbering badges. Consistent cast through all panels. Each panel is a meaningful different concrete scene of the learner using a laptop, showing papers, comparing results, and acting with instructor. Large readable short EXACT Korean caption in a cream black-outlined rounded rectangle at bottom of each panel. Include one amber badge number1..8 upper left. Keep faces, borders, captions entirely within each square. No terminal, no real brand logos or fabricated precise product menus. UI is simplified abstract lines. Avoid extra unreadable small labels. Lesson D01: 첫 대화. Teaching story: 답을 외우기보다 확인부터. Panel captions EXACT in order:\n1. 브라우저로 시작해요\n2. 원하는 일을 적어요\n3. 가짜 자료로 연습해요\n4. 짧은 답부터 받아요\n5. 틀린 곳을 찾아봐요\n6. 새 대화로 구분해요\n7. 결과를 직접 저장해요\n8. 첫 대화 완료!. Show each caption's action with specific visual scene; do not repeat identical laptop poses.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "code": "E02",
+    "publicCode": "D02",
+    "topic": "질문 설계",
+    "goal": "애매한 질문을 작업 지시로",
+    "image": "/comics/chatgpt-D02-8cut-v1.png",
+    "captions": [
+      "무엇을 할까요?",
+      "누가 읽을까요?",
+      "필요한 배경을 줘요",
+      "조건을 정해요",
+      "표로 받아 볼까요?",
+      "빠진 정보는 질문!",
+      "날짜와 수를 확인해요",
+      "좋은 질문 완성!"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE original Korean beginner ChatGPT training comic, exactly EIGHT equally sized square panels in a precise FOUR COLUMNS by TWO ROWS grid, landscape aspect ratio EXACTLY 2:1. Full-bleed grid with panel borders at 25%,50%,75% width and 50% height. No extra title, no margins. Reading order left to right top row1-4 then bottom5-8. Warm cream adult office webtoon, expressive wavy black-haired adult Korean learner in navy shirt and woman instructor in teal cardigan with brown ponytail; bold clean black linework, warm amber numbering badges. Consistent cast through all panels. Each panel is a meaningful different concrete scene of the learner using a laptop, showing papers, comparing results, and acting with instructor. Large readable short EXACT Korean caption in a cream black-outlined rounded rectangle at bottom of each panel. Include one amber badge number1..8 upper left. Keep faces, borders, captions entirely within each square. No terminal, no real brand logos or fabricated precise product menus. UI is simplified abstract lines. Avoid extra unreadable small labels. Lesson D02: 질문 설계. Teaching story: 애매한 질문을 작업 지시로. Panel captions EXACT in order:\n1. 무엇을 할까요?\n2. 누가 읽을까요?\n3. 필요한 배경을 줘요\n4. 조건을 정해요\n5. 표로 받아 볼까요?\n6. 빠진 정보는 질문!\n7. 날짜와 수를 확인해요\n8. 좋은 질문 완성!. Show each caption's action with specific visual scene; do not repeat identical laptop poses.\nREVISION/FINAL:\nPreserve art, all eight captions and grid. In panel7 ONLY replace the example date with 2026-12-03 and the count with 정원 12명. No 2025 date or 50명. Everything else unchanged.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "code": "E03",
+    "publicCode": "D03",
+    "topic": "수정 대화",
+    "goal": "조건을 지키며 초안 다듬기",
+    "image": "/comics/chatgpt-D03-8cut-v1.png",
+    "captions": [
+      "초안부터 받아요",
+      "고칠 부분을 집어요",
+      "날짜는 그대로!",
+      "한 번에 하나씩 고쳐요",
+      "두 안을 비교해요",
+      "원문과 다시 대조해요",
+      "확정 내용을 요약해요",
+      "새 대화에 인계해요"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE original Korean beginner ChatGPT training comic, exactly EIGHT equally sized square panels in a precise FOUR COLUMNS by TWO ROWS grid, landscape aspect ratio EXACTLY 2:1. Full-bleed grid with panel borders at 25%,50%,75% width and 50% height. No extra title, no margins. Reading order left to right top row1-4 then bottom5-8. Warm cream adult office webtoon, expressive wavy black-haired adult Korean learner in navy shirt and woman instructor in teal cardigan with brown ponytail; bold clean black linework, warm amber numbering badges. Consistent cast through all panels. Each panel is a meaningful different concrete scene of the learner using a laptop, showing papers, comparing results, and acting with instructor. Large readable short EXACT Korean caption in a cream black-outlined rounded rectangle at bottom of each panel. Include one amber badge number1..8 upper left. Keep faces, borders, captions entirely within each square. No terminal, no real brand logos or fabricated precise product menus. UI is simplified abstract lines. Avoid extra unreadable small labels. Lesson D03: 수정 대화. Teaching story: 조건을 지키며 초안 다듬기. Panel captions EXACT in order:\n1. 초안부터 받아요\n2. 고칠 부분을 집어요\n3. 날짜는 그대로!\n4. 한 번에 하나씩 고쳐요\n5. 두 안을 비교해요\n6. 원문과 다시 대조해요\n7. 확정 내용을 요약해요\n8. 새 대화에 인계해요. Show each caption's action with specific visual scene; do not repeat identical laptop poses.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "code": "E04",
+    "publicCode": "D04",
+    "topic": "파일 읽기",
+    "goal": "자료에 없는 답은 만들지 않기",
+    "image": "/comics/chatgpt-D04-8cut-v1.png",
+    "captions": [
+      "가짜 안내문 준비!",
+      "파일을 첨부해요",
+      "업로드가 안 되면 복사!",
+      "제목부터 확인해요",
+      "근거 문장을 찾아요",
+      "없는 답은 미정!",
+      "흐린 글씨는 재확인!",
+      "원본과 대조 완료!"
+    ],
+    "prompt": "\nREVISION/FINAL:\nUse case: illustration-story. Create ONE original Korean beginner ChatGPT training comic, exactly EIGHT equally sized square panels in a precise FOUR COLUMNS by TWO ROWS grid, landscape aspect ratio EXACTLY 2:1. Full-bleed grid with panel borders at 25%,50%,75% width and 50% height. No extra title, no margins. Reading order left to right top row1-4 then bottom5-8. Warm cream adult office webtoon, expressive wavy black-haired adult Korean learner in navy shirt and woman instructor in teal cardigan with brown ponytail; bold clean black linework, warm amber numbering badges. Consistent cast through all panels. Each panel is a meaningful different concrete scene of the learner using a laptop, showing papers, comparing results, and acting with instructor. Large readable short EXACT Korean caption in a cream black-outlined rounded rectangle at bottom of each panel. Include one amber badge number1..8 upper left. Keep faces, borders, captions entirely within each square. No terminal, no real brand logos or fabricated precise product menus. UI is simplified abstract lines. Avoid extra unreadable small labels. Create an educational eight-panel comic about reading an uploaded workshop notice carefully. This is an introductory productivity class. Show: prepare a sample workshop handout; attach it; alternatively paste the text; check the document title; find evidence sentences; label absent information pending; ask for clearer text if blurry; compare response with the original. No financial content. No numerical tables.\nCaptionsexact:\n1. 가짜 안내문 준비!\n2. 파일을 첨부해요\n3. 업로드가 안 되면 복사!\n4. 제목부터 확인해요\n5. 근거 문장을 찾아요\n6. 없는 답은 미정!\n7. 흐린 글씨는 재확인!\n8. 원본과 대조 완료!\nFINAL:\nPreserve exact grid, characters and all eight bottom captions. Align sample workshop notice with curriculum: title 새싹팀 교육 안내, topic AI 업무 입문, date2026-12-03, format온라인, capacity12명. Replace every March15 example and 사내 교육실 everywhere. Panel6 evidence card must say 교육12월3일 / 정원12명 / 녹화미정, NOT 신청방법미정. Panel5 highlighted evidence can read 온라인 교육. All other art/captions unchanged.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "code": "E05",
+    "publicCode": "D05",
+    "topic": "숫자 분석",
+    "goal": "원본을 보존하고 합계를 검증",
+    "image": "/comics/chatgpt-D05-8cut-v1.png",
+    "captions": [
+      "원본은 따로 보관!",
+      "행과 열부터 확인!",
+      "중복 한 줄 발견!",
+      "빈칸은 미확인!",
+      "환불은 음수로!",
+      "확인된 합계 4만 원!",
+      "누락은 따로 보고!",
+      "표와 차트를 검수해요"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE original Korean beginner ChatGPT training comic, exactly EIGHT equally sized square panels in a precise FOUR COLUMNS by TWO ROWS grid, landscape aspect ratio EXACTLY 2:1. Full-bleed grid with panel borders at 25%,50%,75% width and 50% height. No extra title, no margins. Reading order left to right top row1-4 then bottom5-8. Warm cream adult office webtoon, expressive wavy black-haired adult Korean learner in navy shirt and woman instructor in teal cardigan with brown ponytail; bold clean black linework, warm amber numbering badges. Consistent cast through all panels. Each panel is a meaningful different concrete scene of the learner using a laptop, showing papers, comparing results, and acting with instructor. Large readable short EXACT Korean caption in a cream black-outlined rounded rectangle at bottom of each panel. Include one amber badge number1..8 upper left. Keep faces, borders, captions entirely within each square. No terminal, no real brand logos or fabricated precise product menus. UI is simplified abstract lines. Avoid extra unreadable small labels. Lesson D05: 숫자 분석. Teaching story: 원본을 보존하고 합계를 검증. Financial sample if any: 6 raw rows, exact duplicated X002 row excluded once, one missing amount X004 remains UNKNOWN, refund negative -5000; known net total40000won not full confirmed total. Do not invent other sample dates or numbers. Panel captions EXACT:\n1. 원본은 따로 보관!\n2. 행과 열부터 확인!\n3. 중복 한 줄 발견!\n4. 빈칸은 미확인!\n5. 환불은 음수로!\n6. 확인된 합계 4만 원!\n7. 누락은 따로 보고!\n8. 표와 차트를 검수해요. Concrete varied scene for each caption, meaningful diagrams only; no invented realistic links.\nREVISION/FINAL:\nPreserve eight captions, characters and exact grid. Correct sample numeric details: panel2 remove 열:2개 and replace with 열 확인; six original rows header excluded. panel3 table code/amount exact rows X001 12,000;X002 18,000;X002 18,000 duplicate red;X003 15,000;X004 미확인;X005 -5,000. panel4 deduplicated table exact X00112000,X00218000,X00315000,X004미확인,X005-5000. Panel5 refund X005 -5000 stays. Panel6 known subtotal4만 원 stays. Panel7 mention known subtotal not full confirmed total and X004 unknown. No extra invented row. All other art/captions unchanged.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "code": "E06",
+    "publicCode": "D06",
+    "topic": "자료 조사",
+    "goal": "링크가 있어도 본문을 확인",
+    "image": "/comics/chatgpt-D06-8cut-v1.png",
+    "captions": [
+      "조사 질문을 좁혀요",
+      "기준일을 적어요",
+      "공식 자료부터 찾아요",
+      "직접 링크를 열어요",
+      "주장과 근거를 연결!",
+      "발표일과 적용일 구분!",
+      "못 찾으면 미확인!",
+      "출처표까지 완성!"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE original Korean beginner ChatGPT training comic, exactly EIGHT equally sized square panels in a precise FOUR COLUMNS by TWO ROWS grid, landscape aspect ratio EXACTLY 2:1. Full-bleed grid with panel borders at 25%,50%,75% width and 50% height. No extra title, no margins. Reading order left to right top row1-4 then bottom5-8. Warm cream adult office webtoon, expressive wavy black-haired adult Korean learner in navy shirt and woman instructor in teal cardigan with brown ponytail; bold clean black linework, warm amber numbering badges. Consistent cast through all panels. Each panel is a meaningful different concrete scene of the learner using a laptop, showing papers, comparing results, and acting with instructor. Large readable short EXACT Korean caption in a cream black-outlined rounded rectangle at bottom of each panel. Include one amber badge number1..8 upper left. Keep faces, borders, captions entirely within each square. No terminal, no real brand logos or fabricated precise product menus. UI is simplified abstract lines. Avoid extra unreadable small labels. Lesson D06: 자료 조사. Teaching story: 링크가 있어도 본문을 확인. Financial sample if any: 6 raw rows, exact duplicated X002 row excluded once, one missing amount X004 remains UNKNOWN, refund negative -5000; known net total40000won not full confirmed total. Do not invent other sample dates or numbers. Panel captions EXACT:\n1. 조사 질문을 좁혀요\n2. 기준일을 적어요\n3. 공식 자료부터 찾아요\n4. 직접 링크를 열어요\n5. 주장과 근거를 연결!\n6. 발표일과 적용일 구분!\n7. 못 찾으면 미확인!\n8. 출처표까지 완성!. Concrete varied scene for each caption, meaningful diagrams only; no invented realistic links.\nREVISION/FINAL:\nPreserve characters, exact4x2grid and ALL bottom eight Korean captions. Replace irrelevant financial material in panels1,5,7,8. This lesson is WEB RESEARCH not expense analysis. Panel1 research question is 이미지 입력 지원 여부는? with calendar question. Panel5 source evidence worksheet: 주장 이미지 첨부 / 근거 공식 안내 / 상태 직접 확인. NO transaction table NO money. Panel7 unavailable source with 미확인. Panel8 source log columns 자료명/직접 URL/게시일/적용일/확인일 with abstract example lines. No invented specific URL. Panels2,3,4,6 fine preserve. Remove all X001-X006 or40000원 anywhere.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "code": "E07",
+    "publicCode": "D07",
+    "topic": "메일과 보고서",
+    "goal": "사실은 유지하고 표현만 다듬기",
+    "image": "/comics/chatgpt-D07-8cut-v1.png",
+    "captions": [
+      "회의 메모를 준비!",
+      "결정과 할 일을 분리!",
+      "담당과 기한을 적어요",
+      "메일 초안을 만들어요",
+      "없는 약속은 추가 금지!",
+      "짧고 정중하게 수정!",
+      "원문과 최종 대조!",
+      "발송은 직접 확인!"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE original Korean beginner ChatGPT training comic, exactly EIGHT equally sized square panels in a precise FOUR COLUMNS by TWO ROWS grid, landscape aspect ratio EXACTLY 2:1. Full-bleed grid with panel borders at 25%,50%,75% width and 50% height. No extra title, no margins. Reading order left to right top row1-4 then bottom5-8. Warm cream adult office webtoon, expressive wavy black-haired adult Korean learner in navy shirt and woman instructor in teal cardigan with brown ponytail; bold clean black linework, warm amber numbering badges. Consistent cast through all panels. Each panel is a meaningful different concrete scene of the learner using a laptop, showing papers, comparing results, and acting with instructor. Large readable short EXACT Korean caption in a cream black-outlined rounded rectangle at bottom of each panel. Include one amber badge number1..8 upper left. Keep faces, borders, captions entirely within each square. No terminal, no real brand logos or fabricated precise product menus. UI is simplified abstract lines. Avoid extra unreadable small labels. Lesson D07: 메일과 보고서. Teaching story: 사실은 유지하고 표현만 다듬기. Financial sample if any: 6 raw rows, exact duplicated X002 row excluded once, one missing amount X004 remains UNKNOWN, refund negative -5000; known net total40000won not full confirmed total. Do not invent other sample dates or numbers. Panel captions EXACT:\n1. 회의 메모를 준비!\n2. 결정과 할 일을 분리!\n3. 담당과 기한을 적어요\n4. 메일 초안을 만들어요\n5. 없는 약속은 추가 금지!\n6. 짧고 정중하게 수정!\n7. 원문과 최종 대조!\n8. 발송은 직접 확인!. Concrete varied scene for each caption, meaningful diagrams only; no invented realistic links.\nREVISION/FINAL:\nPreserve four-by-two grid, eight bottom captions, characters and all other art. Fix source contents to workshop preparation memo, no finance anywhere. Panel2 decisions 온라인 교육 / tasks 신청 현황표, 안내 초안. Panel3 table: 신청 현황표 / 가람 /11월25일; 안내 초안/나래/11월27일. Panel4 email draft abstract short lines. Panel5 unapproved extra promise red crossed out stays. Panel7 replace ALL numeric financial tables with matching original vs final fact cards: 교육12월3일, 정원12명, 녹화미정. Remove all X001/X002 rows and40000원 claim. Panel8 show email envelope beside a person reviewing it and label 초안, NOT sent confirmation.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "code": "E08",
+    "publicCode": "D08",
+    "topic": "맞춤 설정",
+    "goal": "지침 프로젝트 메모리 구분",
+    "image": "/comics/chatgpt-D08-8cut-v1.png",
+    "captions": [
+      "자주 쓰는 말투는?",
+      "맞춤 지침에 정리!",
+      "업무 자료는 프로젝트!",
+      "자료를 직접 추가해요",
+      "새 대화에서 시험!",
+      "메모리는 설정 확인!",
+      "중요한 규칙은 문서로!",
+      "공유 범위도 확인!"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE original Korean beginner ChatGPT training comic, exactly EIGHT equally sized square panels in a precise FOUR COLUMNS by TWO ROWS grid, landscape aspect ratio EXACTLY 2:1. Full-bleed grid with panel borders at 25%,50%,75% width and 50% height. No extra title, no margins. Reading order left to right top row1-4 then bottom5-8. Warm cream adult office webtoon, expressive wavy black-haired adult Korean learner in navy shirt and woman instructor in teal cardigan with brown ponytail; bold clean black linework, warm amber numbering badges. Consistent cast through all panels. Each panel is a meaningful different concrete scene of the learner using a laptop, showing papers, comparing results, and acting with instructor. Large readable short EXACT Korean caption in a cream black-outlined rounded rectangle at bottom of each panel. Include one amber badge number1..8 upper left. Keep faces, borders, captions entirely within each square. No terminal, no real brand logos or fabricated precise product menus. UI is simplified abstract lines. Avoid extra unreadable small labels. Lesson D08: 맞춤 설정. Distinguish cross-chat style instructions, project uploaded sources, account memory settings. A web project does NOT automatically access PC folder. Show instruction card, folder with explicit upload arrow, settings controls. No spending or finance.. Captions EXACT:\n1. 자주 쓰는 말투는?\n2. 맞춤 지침에 정리!\n3. 업무 자료는 프로젝트!\n4. 자료를 직접 추가해요\n5. 새 대화에서 시험!\n6. 메모리는 설정 확인!\n7. 중요한 규칙은 문서로!\n8. 공유 범위도 확인!. Draw varied scene matching each caption, minimal additional text.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "code": "E09",
+    "publicCode": "D09",
+    "topic": "나만의 도우미",
+    "goal": "계정에 맞는 반복 업무 절차",
+    "image": "/comics/chatgpt-D09-8cut-v1.png",
+    "captions": [
+      "반복 업무를 골라요",
+      "지침과 자료를 분리!",
+      "가능한 제작 메뉴 확인!",
+      "없으면 절차 MD로!",
+      "정상 사례를 시험해요",
+      "모르는 건 미확인!",
+      "자료 속 명령은 거절!",
+      "검증 후 비공개 사용!"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE original Korean beginner ChatGPT training comic, exactly EIGHT equally sized square panels in a precise FOUR COLUMNS by TWO ROWS grid, landscape aspect ratio EXACTLY 2:1. Full-bleed grid with panel borders at 25%,50%,75% width and 50% height. No extra title, no margins. Reading order left to right top row1-4 then bottom5-8. Warm cream adult office webtoon, expressive wavy black-haired adult Korean learner in navy shirt and woman instructor in teal cardigan with brown ponytail; bold clean black linework, warm amber numbering badges. Consistent cast through all panels. Each panel is a meaningful different concrete scene of the learner using a laptop, showing papers, comparing results, and acting with instructor. Large readable short EXACT Korean caption in a cream black-outlined rounded rectangle at bottom of each panel. Include one amber badge number1..8 upper left. Keep faces, borders, captions entirely within each square. No terminal, no real brand logos or fabricated precise product menus. UI is simplified abstract lines. Avoid extra unreadable small labels. Lesson D09: 나만의 도우미. Choose actual available GPT/plugin creation UI, or manual procedure MD fallback if unavailable. Drafting procedure is NOT installing. Test known answer capacity12, unknown recording link, and ignore instructions inside reference source. No actual public sharing.. Captions EXACT:\n1. 반복 업무를 골라요\n2. 지침과 자료를 분리!\n3. 가능한 제작 메뉴 확인!\n4. 없으면 절차 MD로!\n5. 정상 사례를 시험해요\n6. 모르는 건 미확인!\n7. 자료 속 명령은 거절!\n8. 검증 후 비공개 사용!. Draw varied scene matching each caption, minimal additional text.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "code": "E10",
+    "publicCode": "D10",
+    "topic": "졸업 실습",
+    "goal": "입력부터 검수까지 업무 하나 완성",
+    "image": "/comics/chatgpt-D10-8cut-v1.png",
+    "captions": [
+      "가짜 원본부터 시작!",
+      "작업 범위를 정해요",
+      "지출 자료를 정리!",
+      "합계는 4만 원!",
+      "빈칸은 미확인!",
+      "보고서와 메일 초안!",
+      "원본으로 다시 검증!",
+      "결과와 한계를 인계!"
+    ],
+    "prompt": "\nFINAL:\nCreate an original eight-panel Korean educational comic for a BEGINNER CHATGPT CLASS graduation exercise. Friendly adult learner and teacher in office. Exactly 4equalcolumns by2equalrows, landscape2:1, eight square panels numbered1-8. Warm cream webtoon style bold outlines. Large cream bottom caption on each square exactly these eight captions. Panels visually show:1student gathers classroom handouts;2sets a short scope checklist;3organizes a sample table with abstract unreadable lines;4uses calculator to verify a result;5marks a missing value with question mark;6writes a report and email DRAFT;7compares with original handout;8hands over a folder with a list of remaining questions. No extra numbers or detailed tables, no money imagery, no real product logos. Only the specified captions are needed. Captions in exact order: 1 가짜 원본부터 시작!;2 작업 범위를 정해요;3 지출 자료를 정리!;4 합계는 4만 원!;5 빈칸은 미확인!;6 보고서와 메일 초안!;7 원본으로 다시 검증!;8 결과와 한계를 인계!.",
+    "mode": "built-in image_gen"
+  }
+]

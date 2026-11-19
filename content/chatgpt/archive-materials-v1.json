@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "guide",
+    "title": "읽는 법과 10강 학습 순서",
+    "download": "/materials/chatgpt/guide.md"
+  },
+  {
+    "slug": "notice",
+    "title": "가짜 교육 안내문",
+    "download": "/materials/chatgpt/notice.md"
+  },
+  {
+    "slug": "meeting",
+    "title": "가짜 준비 회의 메모",
+    "download": "/materials/chatgpt/meeting.md"
+  },
+  {
+    "slug": "expenses",
+    "title": "지출 샘플 CSV 6행",
+    "download": "/materials/chatgpt/expenses.csv"
+  },
+  {
+    "slug": "research",
+    "title": "가상 공지와 날짜 읽기",
+    "download": "/materials/chatgpt/research.md"
+  },
+  {
+    "slug": "assistant",
+    "title": "업무 도우미 절차 MD",
+    "download": "/materials/chatgpt/assistant.md"
+  },
+  {
+    "slug": "review",
+    "title": "검수표와 졸업 기준",
+    "download": "/materials/chatgpt/review.md"
+  },
+  {
+    "slug": "sources",
+    "title": "공식 참고와 원고 검토 기록",
+    "download": "/materials/chatgpt/sources.md"
+  }
+]

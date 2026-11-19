@@ -1,0 +1,16 @@
+{
+  "description": "교육용 초안. 실행 경로를 확인하고 검토·신뢰하기 전에는 설치하지 않습니다.",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "^apply_patch$",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python C:/AIPractice/hook_guard.py"
+          }
+        ]
+      }
+    ]
+  }
+}
