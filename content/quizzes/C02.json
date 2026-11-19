@@ -1,0 +1,37 @@
+[
+  {
+    "prompt": "권한 모드를 바꾸는 단축키는?",
+    "choices": ["Ctrl+C", "Shift+Tab", "Esc Esc", "Alt+F4"],
+    "answer": 1,
+    "explanation": "Shift+Tab 누를 때마다 Plan → Default → Auto-accept 식으로 바뀜.",
+    "page": "1단원 · 본문"
+  },
+  {
+    "prompt": "Plan 모드가 하는 일은?",
+    "choices": ["계획만 세우고 파일에 손 안 댐", "모든 걸 묻지 않고 알아서 함", "파일 수정만 알아서 함", "인터넷 검색만 함"],
+    "answer": 0,
+    "explanation": "ㅇㅇ 10분 계획이 2시간 삽질 막음. 큰 일은 Plan부터.",
+    "page": "1단원 · 본문"
+  },
+  {
+    "prompt": "Auto 모드에 대한 설명으로 맞는 것은?",
+    "choices": ["제일 안전한 모드다", "Plan 모드와 같다", "덜 물어볼 뿐 안전을 보장하지는 않는다", "처음 쓰는 사람에게 권장된다"],
+    "answer": 2,
+    "explanation": "Auto는 '덜 물어보는' 거지 '안전한' 게 아님.",
+    "page": "2단원 · 실전"
+  },
+  {
+    "prompt": "같은 파일에 허용(allow)과 차단(deny) 규칙이 둘 다 걸리면?",
+    "choices": ["allow가 이김", "먼저 만든 규칙이 이김", "둘 다 무시됨", "deny가 이김"],
+    "answer": 3,
+    "explanation": "차단이 허용을 이김. 그래서 .env 같은 중요한 파일은 deny부터 걸어라.",
+    "page": "2단원 · 실전"
+  },
+  {
+    "prompt": "클코가 '이 명령 실행해도 됨?' 하고 물을 때 올바른 태도는?",
+    "choices": ["명령 내용을 읽고, 모르면 \"이거 뭐 하는 거야?\" 물어본다", "빨리 끝내려고 습관적으로 승인 연타", "무조건 거절", "Bypass 모드로 바꿔서 안 묻게 한다"],
+    "answer": 0,
+    "explanation": "승인 버튼 연타하면 Default 모드 쓰는 의미 없음. 특히 삭제·외부 전송은 꼭 확인.",
+    "page": "2단원 · 실전"
+  }
+]

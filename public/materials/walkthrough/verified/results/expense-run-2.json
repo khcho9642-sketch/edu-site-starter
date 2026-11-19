@@ -1,0 +1,15 @@
+{
+  "run": 2,
+  "source": "교육용_프로젝트\\output\\edu-cd-validation-20261115\\input\\지출샘플.csv",
+  "transaction_count": 6,
+  "confirmed_count": 5,
+  "blank_amount_ids": [
+    "T004"
+  ],
+  "negative_transaction_ids": [
+    "T005"
+  ],
+  "confirmed_sum": 28000.0,
+  "currency": "KRW",
+  "rule": "확정=빈값이 아닌 해석 가능한 금액; 1만원=10000원; 음수 포함 합계"
+}

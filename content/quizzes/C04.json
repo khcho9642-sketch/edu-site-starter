@@ -1,0 +1,37 @@
+[
+  {
+    "prompt": "CLAUDE.md를 자동으로 만들어주는 명령은?",
+    "choices": ["/init", "/clear", "/exit", "/resume"],
+    "answer": 0,
+    "explanation": "폴더에서 /init 하면 만들어줌. 그다음 내 규칙을 짧고 구체적으로 추가.",
+    "page": "1단원 · 본문"
+  },
+  {
+    "prompt": "CLAUDE.md와 Auto Memory의 차이로 맞는 것은?",
+    "choices": ["둘 다 내가 직접 쓰는 파일이다", "Auto Memory는 다른 사람과 공유하는 파일이다", "CLAUDE.md는 내가 쓰는 수첩, Auto Memory는 클코가 스스로 쓰는 메모", "CLAUDE.md는 대화가 끝나면 지워진다"],
+    "answer": 2,
+    "explanation": "ㅇㅇ 내가 고쳐준 습관은 Auto Memory가 알아서 기억함. /memory로 볼 수 있음.",
+    "page": "1단원 · 본문"
+  },
+  {
+    "prompt": "CLAUDE.md에 넣기 '나쁜' 내용은?",
+    "choices": ["날짜는 YYYY-MM-DD", "원본은 덮어쓰지 말고 새 파일로", "답변은 한국어로", "\"깔끔하게 해\" 같은 뜬구름 지시"],
+    "answer": 3,
+    "explanation": "구체적이어야 지켜짐. \"깔끔하게\"는 아무 의미 없음.",
+    "page": "1단원 · 본문"
+  },
+  {
+    "prompt": "좋은 지시의 3요소는?",
+    "choices": ["빨리 / 많이 / 싸게", "어디(파일) / 뭘 / 어떻게(원하는 결과)", "제목 / 본문 / 서명", "모델 / 모드 / 단축키"],
+    "answer": 1,
+    "explanation": "\"엑셀 정리해줘\" 말고 \"@지출.csv에서 금액 빈 행 목록만 보여줘. 고치지 마\".",
+    "page": "1단원 · 본문"
+  },
+  {
+    "prompt": "기호 '@'의 뜻은?",
+    "choices": ["명령어 목록 열기", "터미널 명령 직접 실행", "파일 콕 집어서 지정", "대화 종료"],
+    "answer": 2,
+    "explanation": "/ = 명령 목록, @ = 파일 지정, ! = 터미널 명령. 이 셋이면 절반 해결.",
+    "page": "2단원 · 실전"
+  }
+]

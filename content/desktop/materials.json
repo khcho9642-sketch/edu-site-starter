@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "guide",
+    "title": "읽는 법과 학습 순서",
+    "download": "/materials/desktop/guide.md"
+  },
+  {
+    "slug": "practice",
+    "title": "공통 실습 안내와 검수 기준",
+    "download": "/materials/desktop/practice.md"
+  },
+  {
+    "slug": "expenses",
+    "title": "가짜 지출 샘플 6건",
+    "download": "/materials/desktop/expenses.md"
+  },
+  {
+    "slug": "receipts",
+    "title": "영수증 샘플",
+    "download": "/materials/desktop/receipts.md"
+  },
+  {
+    "slug": "report",
+    "title": "보고서 견본",
+    "download": "/materials/desktop/report.md"
+  },
+  {
+    "slug": "mail-meeting",
+    "title": "메일과 회의 메모",
+    "download": "/materials/desktop/mail-meeting.md"
+  },
+  {
+    "slug": "research",
+    "title": "가상 서비스 비교 자료",
+    "download": "/materials/desktop/research.md"
+  },
+  {
+    "slug": "github",
+    "title": "GitHub 연습 안내",
+    "download": "/materials/desktop/github.md"
+  },
+  {
+    "slug": "extensions",
+    "title": "C22~C25 확장 기능 공통 샘플과 검수 기준",
+    "download": "/materials/desktop/extensions.md"
+  },
+  {
+    "slug": "ci-logs",
+    "title": "가짜 CI 실패 로그와 검사 없음 연습",
+    "download": "/materials/desktop/ci-logs.md"
+  },
+  {
+    "slug": "expense-skill",
+    "title": "지출 정리 SKILL.md",
+    "download": "/materials/desktop/expense-cleanup/SKILL.md"
+  },
+  {
+    "slug": "review",
+    "title": "원고 검토 기록과 공식 참고자료",
+    "download": "/materials/desktop/review.md"
+  }
+]

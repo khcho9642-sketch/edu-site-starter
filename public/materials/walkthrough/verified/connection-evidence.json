@@ -1,0 +1,16 @@
+{
+  "service": "GitHub",
+  "client": "현재 Codex 연결 도구",
+  "action": "기존 연결로 디렉터리 목록에서 연습 파일을 고른 뒤 실제 원격 파일 읽기",
+  "path": "https://github.com/khcho9642-sketch/edu-site/blob/32824c780ed6fde1e5c6bdb92fcf49f796f5758f/public/materials/walkthrough/practice/%EA%B5%90%EC%9C%A1%EC%9D%BC%EC%A0%95_%EA%B0%80%EC%A7%9C%EC%A1%B0%ED%9A%8C.md",
+  "blobSha": "54040102b334a06a61c88fc315eaa93e11342eb5",
+  "content": "# 교육 일정 연습\r\n문서ID: DEMO-DOC-01\r\n수업1: 2026-12-10 10:00~10:30, 30분\r\n수업2: 2026-12-10 10:40~11:40, 60분\r\n상태: 검토용, 실제 예약 아님\r\n",
+  "result": {
+    "classes": 2,
+    "teachingMinutes": 90,
+    "elapsedMinutes": 100
+  },
+  "newOAuth": false,
+  "permissionChanged": false,
+  "revocationTested": false
+}
