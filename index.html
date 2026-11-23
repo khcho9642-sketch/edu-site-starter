@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Claude Desktop, Python, Node.js, Git, GitHub, Vercel까지 한 번에 준비하는 개발 환경 설정 가이드"
+    />
+    <meta name="theme-color" content="#102a25" />
+    <meta property="og:title" content="개발 환경 설정 가이드" />
+    <meta
+      property="og:description"
+      content="처음 프로젝트를 시작하기 위한 8단계 개발 환경 준비 과정"
+    />
+    <title>개발 환경 설정 가이드</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./guide-data.js" defer></script>
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#guide-content">본문으로 건너뛰기</a>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="#top" aria-label="개발 환경 설정 가이드 처음으로">
+          <span class="brand-mark" aria-hidden="true">&lt;/&gt;</span>
+          <span>
+            <strong>개발 환경 설정</strong>
+            <small>처음 시작하는 개발 가이드</small>
+          </span>
+        </a>
+        <div class="header-progress" aria-label="가이드 진행률">
+          <span id="progressLabel">0 / 9 완료</span>
+          <div class="progress-track" aria-hidden="true">
+            <span id="progressBar"></span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-backdrop" aria-hidden="true"></div>
+        <div class="hero-inner">
+          <p class="eyebrow">DEVELOPER SETUP GUIDE</p>
+          <h1 id="hero-title">개발 환경 설정 가이드</h1>
+          <p class="hero-copy">
+            Claude Desktop부터 GitHub와 Vercel 배포까지,<br class="desktop-only" />
+            실제 화면을 보며 하나씩 준비합니다.
+          </p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#step-1">설정 시작하기</a>
+            <a class="button button-ghost" href="#final-checklist">체크리스트 보기</a>
+          </div>
+          <dl class="hero-meta" aria-label="가이드 요약">
+            <div><dt>단계</dt><dd>8단계</dd></div>
+            <div><dt>화면 예시</dt><dd>10개</dd></div>
+            <div><dt>대상</dt><dd>처음 시작하는 분</dd></div>
+          </dl>
+        </div>
+      </section>
+
+      <section class="route" aria-labelledby="route-title">
+        <div class="content-width">
+          <div class="section-heading compact">
+            <p class="eyebrow dark">준비 경로</p>
+            <h2 id="route-title">설치에서 첫 배포까지</h2>
+          </div>
+          <ol id="routeList" class="route-list"></ol>
+        </div>
+      </section>
+
+      <div class="guide-layout content-width">
+        <aside class="sidebar" aria-label="가이드 목차">
+          <div class="sidebar-card">
+            <label class="search-field">
+              <span class="sr-only">가이드에서 검색</span>
+              <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.35-4.35m2.35-5.15A7.5 7.5 0 1 1 4 11.5a7.5 7.5 0 0 1 15 0Z" /></svg>
+              <input id="guideSearch" data-guide-search type="search" placeholder="설치·오류 검색" autocomplete="off" />
+            </label>
+            <nav aria-label="단계별 목차">
+              <ol id="sideNav" class="side-nav"></ol>
+            </nav>
+            <button id="resetProgress" class="text-button" type="button">진행 상태 초기화</button>
+          </div>
+        </aside>
+
+        <section class="guide-column" aria-label="개발 환경 설정 단계">
+          <div class="mobile-tools">
+            <label for="mobileNav">단계 바로가기</label>
+            <select id="mobileNav"></select>
+            <label class="mobile-search" for="mobileSearch">가이드 검색</label>
+            <input id="mobileSearch" data-guide-search type="search" placeholder="설치·오류 검색" autocomplete="off" />
+          </div>
+          <div id="searchStatus" class="search-status" aria-live="polite"></div>
+          <div id="guide-content"></div>
+          <section id="final-checklist" class="final-checklist" aria-labelledby="checklist-title">
+            <div>
+              <p class="eyebrow dark">FINAL CHECK</p>
+              <h2 id="checklist-title">프로젝트를 시작할 준비가 됐나요?</h2>
+              <p>직접 확인한 항목만 표시하세요. 체크 상태는 현재 브라우저에 저장됩니다.</p>
+            </div>
+            <div id="checklistItems" class="checklist-grid"></div>
+            <div class="readiness" aria-live="polite">
+              <span id="readinessIcon" aria-hidden="true">0%</span>
+              <div>
+                <strong id="readinessTitle">하나씩 준비해 보세요</strong>
+                <p id="readinessCopy">완료한 항목이 여기에 반영됩니다.</p>
+              </div>
+            </div>
+          </section>
+        </section>
+      </div>
+    </main>
+
+    <footer>
+      <div class="content-width footer-inner">
+        <div>
+          <strong>개발 환경 설정 가이드</strong>
+          <p>각 서비스의 화면과 정책은 변경될 수 있습니다. 중요한 정보는 공식 페이지에서 다시 확인하세요.</p>
+        </div>
+        <a href="#top">맨 위로</a>
+      </div>
+    </footer>
+
+    <dialog id="imageDialog" class="image-dialog" aria-label="확대 이미지">
+      <button id="closeDialog" type="button" aria-label="확대 이미지 닫기">닫기</button>
+      <img id="dialogImage" alt="" />
+      <p id="dialogCaption"></p>
+    </dialog>
+
+    <div id="copyToast" class="toast" role="status" aria-live="polite">명령어를 복사했습니다.</div>
+  </body>
+</html>
