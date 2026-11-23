@@ -2,7 +2,7 @@
   "use strict";
 
   const data = window.GUIDE_DATA;
-  const STORAGE_KEY = "dev-setup-guide-progress-v2";
+  const STORAGE_KEY = "dev-setup-guide-progress-v3";
   let state = loadState();
   let toastTimer;
 
@@ -345,3 +345,4 @@
     return escapeHtml(value).replaceAll("`", "&#096;");
   }
 })();
+

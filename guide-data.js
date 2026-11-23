@@ -163,28 +163,6 @@ window.GUIDE_DATA = {
     },
     {
       id: "step-7",
-      shortTitle: "키와 배포",
-      title: "환경변수 보관과 배포 확인",
-      summary: "서비스 인증키와 설정값을 안전하게 보관하고 Vercel 배포에 필요한 값을 등록합니다.",
-      blocks: [
-        { type: "heading", title: "로컬 환경변수 파일 만들기" },
-        { type: "text", html: "프로젝트가 정한 파일명을 사용합니다. Python에서는 보통 <code>.env</code>, Next.js에서는 <code>.env.local</code>을 사용합니다. 변수명은 프로젝트 README를 따르세요." },
-        { type: "code", label: "환경변수 형식 예시", code: ["SERVICE_API_KEY=발급받은_인증키"] },
-        { type: "note", tone: "warn", title: "실제 키는 공유하지 않습니다", html: "실제 키는 로컬 파일이나 Vercel 환경변수 입력란에만 넣습니다. 채팅, 문서, 저장소에 실제 값을 적지 마세요." },
-        { type: "heading", title: "Git에서 제외할 파일 지정" },
-        { type: "code", label: ".gitignore", code: [".env", ".env.*", "!.env.example", ".venv/", "node_modules/", ".vercel/"] },
-        { type: "code", label: "Git 확인", code: ["git check-ignore .env", "git check-ignore .env.local", "git status --short"] },
-        { type: "note", tone: "warn", title: "키가 저장소에 올라갔다면", html: "해당 키를 즉시 폐기하고 재발급한 뒤 추적과 공개 기록을 정리합니다." },
-        { type: "heading", title: "Vercel에 환경변수 등록" },
-        { type: "text", html: "Vercel 프로젝트의 <strong>Settings → Environment Variables</strong>에서 README에 지정된 이름과 값을 입력하고 필요한 환경을 선택합니다. 값을 바꾼 뒤에는 새 배포가 필요합니다." },
-        { type: "note", title: "비밀값은 서버에서만 읽으세요", html: "Next.js의 <code>NEXT_PUBLIC_</code> 또는 Vite의 <code>VITE_</code>처럼 브라우저 공개용 접두사를 비밀값에 붙이지 않습니다." },
-        { type: "heading", title: "배포 성공 여부 확인" },
-        { type: "text", html: "프레임워크, 프로젝트 루트, 빌드 명령을 확인하고 Deploy를 실행합니다. 배포 주소에서 화면과 주요 기능을 확인하고, 오류가 나면 빌드 로그와 함수 실행 로그를 구분해 살펴봅니다." },
-        { type: "links", items: [{ label: "Vercel Git 배포 공식 안내", url: "https://vercel.com/docs/git" }, { label: "Vercel 환경변수 공식 안내", url: "https://vercel.com/docs/environment-variables" }] }
-      ]
-    },
-    {
-      id: "step-8",
       shortTitle: "오류 해결",
       title: "자주 발생하는 오류와 최종 점검",
       summary: "설치와 실행 과정에서 자주 만나는 문제를 빠르게 구분하고 마지막 준비 상태를 점검합니다.",
@@ -195,11 +173,9 @@ window.GUIDE_DATA = {
         { type: "text", html: "<code>npm.ps1</code> 실행 정책 오류가 나오면 <code>npm.cmd --version</code> 또는 <code>npm.cmd install</code>처럼 <code>.cmd</code> 명령을 사용합니다." },
         { type: "heading", title: "GitHub 저장소가 보이지 않을 때" },
         { type: "text", html: "저장소 주소, 현재 로그인 계정, 비공개 저장소 접근 권한을 확인합니다. Vercel에서만 보이지 않는다면 GitHub 연동 앱의 저장소 접근 범위를 확인하세요." },
-        { type: "heading", title: "환경변수가 적용되지 않을 때" },
-        { type: "text", html: "변수명, 앞뒤 공백, 선택한 배포 환경을 확인합니다. 값을 바꾼 뒤 새 배포를 했는지도 확인하고 브라우저 공개 변수와 서버 전용 변수를 구분하세요." },
         { type: "heading", title: "완료 확인" },
-        { type: "checklist", items: ["개발 도구의 버전 확인 명령이 실행된다.", "본인 GitHub 저장소를 열고 로컬 작업 폴더를 찾을 수 있다.", "비밀값이 로컬 환경변수 파일에 보관된다.", ".env와 .env.local이 Git 추적 대상에서 제외된다.", "프로젝트 README에 따라 로컬 실행을 확인했다.", "Vercel에서 저장소 접근 권한과 환경변수를 설정했다.", "새 배포 주소에서 화면과 주요 기능을 확인했다."] },
-        { type: "note", title: "직접 진행하는 항목", html: "계정 가입, 이메일 인증, 약관 동의, 결제, API 키 발급은 각 서비스 화면에서 본인이 진행합니다. 체크 항목은 실제 확인 후 표시하세요." }
+        { type: "checklist", items: ["개발 도구의 버전 확인 명령이 실행된다.", "본인 GitHub 저장소를 열고 로컬 작업 폴더를 찾을 수 있다.", "프로젝트 README에 따라 로컬 실행을 확인했다.", "Vercel에서 필요한 저장소 접근 권한을 설정했다."] },
+        { type: "note", title: "직접 진행하는 항목", html: "계정 가입, 이메일 인증, 약관 동의, 결제는 각 서비스 화면에서 본인이 진행합니다. 체크 항목은 실제 확인 후 표시하세요." }
       ]
     }
   ],
@@ -208,9 +184,8 @@ window.GUIDE_DATA = {
     "Claude 요금제와 결제 내역·해지 방법 확인",
     "Python, Node.js, Git 설치 및 버전 확인",
     "GitHub 계정과 저장소 생성·clone 완료",
-    "필요한 비밀값을 로컬 환경변수로 보관",
-    ".env와 .env.local이 Git에서 제외됨",
     "프로젝트 README에 따라 로컬 실행 확인",
-    "Vercel 계정 생성, GitHub 연동, 배포 확인"
+    "Vercel 계정 생성과 GitHub 연동 확인"
   ]
 };
+
